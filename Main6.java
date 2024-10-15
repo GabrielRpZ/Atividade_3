@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Scanner;
-
+//atividade 7
 class Produto {
     int codigo;
     String nome;
