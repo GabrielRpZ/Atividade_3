@@ -1,4 +1,4 @@
-public class Main4 {
+public class Main4 { //atividade4
     public static void main(String[] args) {
         double soma = 0;  // Variável para armazenar a soma dos termos
         int numerador = 1000;  // Inicia o numerador em 1000
