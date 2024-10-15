@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Scanner;
-
+//atividade 5 e 6
 class Main5 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
