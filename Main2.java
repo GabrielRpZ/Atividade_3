@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; //atividade2
 class Main2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
